@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Refresh"
+        android:id="@+id/refresh"/>
+
+    <item android:title="Update profile"
+        android:id="@+id/update_profile"/>
+
+    <item android:title="Change Email"
+        android:id="@+id/change_email"/>
+
+    <item android:title="Chane Password"
+        android:id="@+id/change_password"/>
+
+    <item android:title="Logout"
+        android:id="@+id/logout"/>
+</menu>
